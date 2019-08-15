@@ -25,6 +25,9 @@
                 </div>
             </div>
           </div>
+          <div>
+            <h1>Welcome to my world</h1>
+          </div>
 
           <div class="slider-item js-fullheight">
             <div class="overlay"></div>
